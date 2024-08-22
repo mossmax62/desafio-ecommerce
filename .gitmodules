@@ -1,0 +1,10 @@
+[submodule "https://github.com/mossmax62/desafio-ecommerce-back"]
+	url = back
+[submodule "https://github.com/mossmax62/desafio-ecommerce-front"]
+	url = front
+[submodule "back"]
+	path = back
+	url = https://github.com/mossmax62/desafio-ecommerce-back
+[submodule "front"]
+	path = front
+	url = https://github.com/mossmax62/desafio-ecommerce-front
