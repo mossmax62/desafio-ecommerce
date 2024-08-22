@@ -11,6 +11,9 @@ Clonar subproyectos:
 ### Documentación endpoints
 
 [APIDOCS](https://docs.google.com/document/d/1_b4-uCGUjhF2e0__0lEugP9KkbIERAg3DhzlE4CmP4Y/edit?usp=sharing)
+
+### Modelo Entidad Relacional
+
 [MODELO-ER](https://drive.google.com/file/d/1iUWnnHz4O2bxwBKc8eHpXlKwn29LsiOK/view?usp=sharing)
 
 
