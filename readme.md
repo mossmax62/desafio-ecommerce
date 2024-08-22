@@ -5,8 +5,8 @@
 
 Clonar subproyectos:
 
-- git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-front
-- git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-back
+- git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-front front
+- git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-back back
 
 ### Documentación endpoints
 
