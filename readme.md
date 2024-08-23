@@ -28,4 +28,4 @@ Clonar subproyectos:
 ### Integrantes
 - Maximiliano Mussuto
 - Fernanda Cuello
-- Diego Hernández
+- Diego Hernández Ramos
