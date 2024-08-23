@@ -5,13 +5,14 @@
 
 Clonar subproyectos:
 
-- git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-front
-- git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-back
+- git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-front front
+- git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-back back
 
 ## Hito 1 - Diseño y prototipo
 
 ### 1. Diseñar un boceto de las vistas del proyecto.
 Bocetos de las vistas disponibles en [CANVA](https://www.canva.com/design/DAGOgGu9kn0/WwLx_mgyU7nvB-6HhwhtuA/edit?utm_content=DAGOgGu9kn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ### 2. Definir la navegación entre vistas marcando las públicas y las privadas.
 Navegación entre vistas disponible en [FIGMA](https://www.figma.com/board/db5XgSK3lfr4s6U7uxp1GF/Untitled?node-id=0-1&t=SttqJdoDWBZFwAxP-1)
