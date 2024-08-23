@@ -24,11 +24,6 @@ Diseño de tablas disponible en [Google Drive](https://drive.google.com/file/d/1
 ### 5. Diseñar el contrato de datos de la API REST.
 Contrato de datos disponible en [Google Docs](https://docs.google.com/document/d/1_b4-uCGUjhF2e0__0lEugP9KkbIERAg3DhzlE4CmP4Y/edit?usp=sharing)
 
-### Documentación endpoints
-
-[APIDOCS](https://docs.google.com/document/d/1_b4-uCGUjhF2e0__0lEugP9KkbIERAg3DhzlE4CmP4Y/edit?usp=sharing)
-
-
 ### Integrantes
 - Maximiliano Mussuto
 - Fernanda Cuello
