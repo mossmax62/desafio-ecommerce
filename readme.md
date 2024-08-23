@@ -8,22 +8,22 @@ Clonar subproyectos:
 - git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-front front
 - git clone --recurse-submodules https://github.com/mossmax62/desafio-ecommerce-back back
 
-### Documentación endpoints
+## Hito 1 - Diseño y prototipo
 
-[APIDOCS-GDRIVE-WORD](https://docs.google.com/document/d/1_b4-uCGUjhF2e0__0lEugP9KkbIERAg3DhzlE4CmP4Y/edit?usp=sharing)
+### 1. Diseñar un boceto de las vistas del proyecto.
+Bocetos de las vistas disponibles en [CANVA](https://www.canva.com/design/DAGOgGu9kn0/WwLx_mgyU7nvB-6HhwhtuA/edit?utm_content=DAGOgGu9kn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-### Modelo Entidad Relacional
 
-[MODELO-ER-DRAW.IO](https://drive.google.com/file/d/1iUWnnHz4O2bxwBKc8eHpXlKwn29LsiOK/view?usp=sharing)
+### 2. Definir la navegación entre vistas marcando las públicas y las privadas.
+Navegación entre vistas disponible en [FIGMA](https://www.figma.com/board/db5XgSK3lfr4s6U7uxp1GF/Untitled?node-id=0-1&t=SttqJdoDWBZFwAxP-1)
 
-### WIREFRAME
+### 3. Enlistar las dependencias a utilizar en el proyecto.
 
-[WIREFRAME-CANVA](https://www.canva.com/design/DAGOgGu9kn0/WwLx_mgyU7nvB-6HhwhtuA/edit?utm_content=DAGOgGu9kn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### 4. Diseñar las tablas de la base de datos y sus relaciones.
+Diseño de tablas disponible en [Google Drive](https://drive.google.com/file/d/1iUWnnHz4O2bxwBKc8eHpXlKwn29LsiOK/view?usp=sharing)
 
-### Flujo de navegación
-
-[FLUJO-FIGMA](https://www.figma.com/board/db5XgSK3lfr4s6U7uxp1GF/Untitled?node-id=0-1&t=SttqJdoDWBZFwAxP-1)
-
+### 5. Diseñar el contrato de datos de la API REST.
+Contrato de datos disponible en [Google Docs](https://docs.google.com/document/d/1_b4-uCGUjhF2e0__0lEugP9KkbIERAg3DhzlE4CmP4Y/edit?usp=sharing)
 
 ### Integrantes
 - Maximiliano Mussuto
