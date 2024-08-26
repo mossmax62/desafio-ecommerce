@@ -19,7 +19,8 @@ Navegación entre vistas disponible en [FIGMA](https://www.figma.com/board/db5Xg
 
 ### 3. Enlistar las dependencias a utilizar en el proyecto.
 
-#### FRONT:
+- FRONT:
+```
 "dependencies": {
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
@@ -40,7 +41,9 @@ Navegación entre vistas disponible en [FIGMA](https://www.figma.com/board/db5Xg
     "standart": "^6.1.0",
     "vite": "^5.1.4"
   }
-  #### BACK:
+  ```
+  - BACK:
+  ```
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
@@ -48,6 +51,7 @@ Navegación entre vistas disponible en [FIGMA](https://www.figma.com/board/db5Xg
     "pg": "^8.12.0",
     "pg-format": "^1.0.4"
   }
+  ```
 
 ### 4. Diseñar las tablas de la base de datos y sus relaciones.
 Diseño de tablas disponible en [Google Drive](https://drive.google.com/file/d/1iUWnnHz4O2bxwBKc8eHpXlKwn29LsiOK/view?usp=sharing)
