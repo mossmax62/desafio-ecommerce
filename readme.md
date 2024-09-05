@@ -44,10 +44,18 @@ Navegación entre vistas disponible en [FIGMA](https://www.figma.com/board/db5Xg
   ```
   - BACK:
   ```
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "standard": "^17.1.0",
+    "standart": "^6.1.0"
+  },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
     "pg": "^8.12.0",
     "pg-format": "^1.0.4"
   }
